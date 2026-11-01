@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CEMERAI</title>
+    <link>https://cemerai.se/news/</link>
+    <description>Recent content in News on CEMERAI</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cemerai.se/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to CEMERAI</title>
+      <link>https://cemerai.se/news/welcome-to-cemerai/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cemerai.se/news/welcome-to-cemerai/</guid>
+      <description>Launch of the CEMERAI website scaffold.</description>
+    </item>
+  </channel>
+</rss>
